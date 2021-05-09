@@ -3,3 +3,4 @@ helloworld git! 333
 helloworld git!
 helloworld git!
 helloworld git! merge_test
+helloworld git! hot_fix
